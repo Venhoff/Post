@@ -1,5 +1,5 @@
 # Post
-Ćwiczenie C# 2
+Proste ćwiczenie symulujące tworzenie postu na forum.
 
                 using System;
                 using System.Collections.Generic;
